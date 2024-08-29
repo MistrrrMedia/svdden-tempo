@@ -2,6 +2,8 @@
 //  svdden_tempoApp.swift
 //  svdden tempo
 //
+//  a stupid tempo calculator.
+//
 //  Created by Nicholas Nguyen on 8/28/24.
 //
 
